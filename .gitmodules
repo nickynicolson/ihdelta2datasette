@@ -1,0 +1,3 @@
+[submodule "ihdelta"]
+	path = ihdelta
+	url = git@github.com:nickynicolson/ihdelta.git
